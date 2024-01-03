@@ -2,7 +2,8 @@
 
 ## 👋 Bienvenido a mi perfil de GitHub
 
-Soy un abogado con formación en desarrollo de software full-stack de 4Geeks Academy, con un interés especial en tecnologías emergentes y su aplicación en el ámbito legal. Me apasiona combinar mis conocimientos en derecho y tecnología para crear y contribuir en proyectos innovadores.
+Soy abogado con formación en desarrollo de software full-stack de 4Geeks Academy, con un interés especial en tecnologías emergentes. Me apasiona combinar mis conocimientos en derecho y tecnología para crear y contribuir en proyectos que fomenten una formación integral y diversificada.
+
 
 ### 🛠 Tecnologías y Herramientas
 - **Lenguajes:** Python, JavaScript, C++
