@@ -26,7 +26,7 @@ Soy abogado con formación en desarrollo de software full-stack de 4Geeks Academ
 ---
 
 ### Educación
-- **Full-Stack Software Developer Full Time**, 4Geeks Academy (Dic 2023 - 2024)
+- **Full-Stack Software Developer**, 4Geeks Academy (Dic 2023 - 2024)
 
 ### Proyectos de Aprendizaje
 - **Prework:** HTML5, CSS3, JavaScript - Conceptos básicos de programación.
